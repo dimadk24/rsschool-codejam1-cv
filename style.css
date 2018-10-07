@@ -77,6 +77,6 @@ img#me {
 
 @media only screen and (max-width: 400px) {
     img#me {
-        height: 80%;
+        height: 150px;
     }
 }
