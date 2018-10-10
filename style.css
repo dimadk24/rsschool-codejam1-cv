@@ -68,6 +68,17 @@ img#me {
     display: inline-block;
 }
 
+a {
+    text-decoration: none;
+    color: #0a06bb;;
+    transition-duration: 300ms;
+}
+
+a:hover,
+a:active {
+    color: #e60000;
+}
+
 @media only screen and (max-width: 740px) {
     .introduction__photo {
         display: block;
