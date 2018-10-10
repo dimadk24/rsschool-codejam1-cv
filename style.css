@@ -16,8 +16,8 @@ html {
 }
 
 h1 {
-    text-align: center;
     margin: 5px 0;
+    text-align: center;
 }
 
 h2 {
@@ -29,21 +29,21 @@ p {
 }
 
 li {
-    padding-left: 0;
     margin-left: 30px;
+    padding-left: 0;
 }
 
 footer {
+    width: 100%;
+    margin: 0;
+    padding: 5px;
     background-color: black;
     color: white;
-    margin: 0;
-    width: 100%;
-    padding: 5px;
 }
 
 footer > p {
-    text-align: center;
     margin: 0;
+    text-align: center;
 }
 
 img#me {
@@ -52,12 +52,11 @@ img#me {
 }
 
 .container {
-    background: #fdfdfd;
-    padding: 10px;
-    border-radius: 10px;
     margin: 10px 0;
+    padding: 10px;
+    background: #fdfdfd;
+    border-radius: 10px;
 }
-
 
 .introduction__text {
     display: inline-block;
